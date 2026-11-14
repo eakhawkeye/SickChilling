@@ -8289,9 +8289,9 @@ node-gyp@^9.0.0:
     which "^2.0.2"
 
 node-releases@^2.0.60:
-  version "2.0.63"
-  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.63.tgz#ad6035ec7745f8bc3b14f6500cd70d5545634612"
-  integrity sha512-6li2QanLsAXpIH2R6j77MzRyvOyrvdTqlKtO4CgBdHGNvN99ZZfyxszHc5o5+IZBWD5u6Hzwg83JoGXmqZNG9Q==
+  version "2.0.64"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.64.tgz#f98f49ee9592be46c78780a5246e3b2c8b8d6f4d"
+  integrity sha512-zAPCKqMcnqs2nGy6nlkm7JduFseiBJy3EXHGLh+8pFR+TxGCBxxiEN21+UROU5CKwX/f4TlUcYjiM+vs/tsyxw==
 
 nofilter@^3.0.2:
   version "3.1.0"
@@ -9195,9 +9195,9 @@ postcss-value-parser@^4.1.0, postcss-value-parser@^4.2.0:
   integrity sha512-1NNCs6uurfkVbeXG4S8JFT9t19m45ICnif8zWLd5oPSZ50QnwMfK+H3jv408d4jw/7Bttv5axS5IiHoLaVNHeQ==
 
 postcss@^8.4.32, postcss@^8.4.33, postcss@^8.5.6:
-  version "8.5.32"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.5.32.tgz#fbccef8388a0c77508c713bfd37728d646595803"
-  integrity sha512-LJlKCCAUFKOuZxipUdYw1NzIITEsPcgyOG9LkvRJvuKj/bRzbuRY0ARXvL0pWGpsZvn8jku+LMep2eU0seHp8g==
+  version "8.5.33"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.5.33.tgz#088a2fee1bdee7ea1ffaf8abb4288513e7097ab0"
+  integrity sha512-RVHEU9/Pp1Fnjr/MpAJsZoADukCKhfIi15OunEYiGktIkYLkPVvC1sioWolGDS7XByMTx9m/IGbro0Js13zhnQ==
   dependencies:
     nanoid "^3.3.20"
     picocolors "^1.1.1"
@@ -10855,9 +10855,9 @@ tapable@^0.1.8:
   integrity sha512-jX8Et4hHg57mug1/079yitEKWGB3LCwoxByLsNim89LABq8NqgiX+6iYVOsq0vX8uJHkU+DZ5fnq95f800bEsQ==
 
 tapable@^2.0.0, tapable@^2.2.1, tapable@^2.3.0, tapable@^2.3.3:
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/tapable/-/tapable-2.3.3.tgz#5da7c9992c46038221267985ab28421a8879f160"
-  integrity sha512-uxc/zpqFg6x7C8vOE7lh6Lbda8eEL9zmVm/PLeTPBRhh1xCgdWaQ+J1CUieGpIfm2HdtsUpRv+HshiasBMcc6A==
+  version "2.3.4"
+  resolved "https://registry.yarnpkg.com/tapable/-/tapable-2.3.4.tgz#c05c277006ccba52e04e1bbddff2e189ee48fca8"
+  integrity sha512-NHFiWnAbMJxNNpBwiO7jJVGDuqMxT9/oV8v57RR+fgBQShkJil5inGD8/xWy0hjLyHQyX1tu27QANhlz3KBqCg==
 
 tar@^6.0.2, tar@^6.1.0, tar@^6.1.11, tar@^6.1.2:
   version "6.2.1"
